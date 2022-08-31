@@ -2,7 +2,7 @@
 
 ## Course - Digital Innovation One 
 
-<img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/images/bootcamp%20image.webp" width="230" height="180">         <img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/dio%20logo.jpg" width="230" height="180" >
+<img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/images/bootcamp%20image.webp" width="230" height="180">         <img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/images/dio%20logo.jpg" width="230" height="180" >
 
 -------
 
