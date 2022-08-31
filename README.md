@@ -10,3 +10,11 @@ My repository shows my projects during the Database Experience bootcamp by Digit
 
 On this immersion, I improved on the main concepts of SQL and NoSQL databases, with educational experiences and exclusive mentorships on data modeling, DBMS, EER, architecture, queries, among others.
 
+
+### Projects
+
+* Database Conceptual Project - E-COMMERCE
+* Building a Conceptual schema from Scratch
+* Building the First Logical Database Design
+* Build a Logical Database Design from Scratch
+* The Role of SQL and NoSQL Databases in Data Engineering
