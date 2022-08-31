@@ -1,2 +1,7 @@
-# Database_Experience-DIO
-My repository of the Database Experience bootcamp by Digital Innovation One 
+# Database Experience Bootcamp
+
+## Course - Digital Innovation One 
+
+
+My repository shows my projects during the Database Experience bootcamp by Digital Innovation One (DIO). 
+
