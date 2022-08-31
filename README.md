@@ -2,6 +2,11 @@
 
 ## Course - Digital Innovation One 
 
+<p align="center">
+  <img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/bootcamp%20image.webp" width="300">    <img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/dio%20logo.jpg" width="300">
+</p>
+
+-------
 
 My repository shows my projects during the Database Experience bootcamp by Digital Innovation One (DIO). 
 
