@@ -4,7 +4,7 @@ The purpose of this project was to build a database conceptual project of an E-C
 
 ### Project scope:
 
-**Product**
+Product
 * Products are sold through a single online platform. However, these may have different sellers (third parties).
 * Each product has a supplier.
 * One or more products make up an order.
