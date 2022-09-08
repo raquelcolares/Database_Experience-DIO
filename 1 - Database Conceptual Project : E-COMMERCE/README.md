@@ -18,3 +18,8 @@ Request
 * Orders are created by customers and have customer information about purchase, address and delivery status.
 * One or more products make up the order.
 * The order can be canceled.
+
+Observations:
+* An account can be PJ or PF, but not can have both information.
+* You may have registered more than one form of payment.
+* Delivery has status and tracking code.
