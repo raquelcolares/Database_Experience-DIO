@@ -10,4 +10,7 @@ The purpose of this project was to build a conceptual schema of an execution con
 * The value of each piece will also compose the service order.
 * The customer authorizes the execution of the services.
 * The same team evaluates and executes the services.
-
+* Mechanics have a code, name, address and speciality.
+* Each service order has: number, issue date, value, status and a work completion date.
+* A service order can be composed of several services and the same service can be contained in more than one service order.
+* A service order can have multiple part types and a part can be present in more than one service order.
